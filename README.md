@@ -21,7 +21,7 @@ OBS: onde houver parênteses são variáveis para serem substituídas
 
 <h3>CSS </h3>
 - :root{(--sequência de variáveis)} -> cria variáveis que servem para padronizar os estilos. Ex: --cor-primaria: blue; -> Quando for escolher uma cor, pode usar var(--cor-primaria) para selecionar a cor primaria azul, e se alterar blue para red por exemplo, tudo que usava a cor primaria vai ser alterado para vermelho, sem ter que mudar um por vez
-<h2>CSS Reset</h2> -> 
+<h4>CSS Reset</h4> -> 
 body,
 h1,
 p,
